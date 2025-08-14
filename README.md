@@ -18,9 +18,8 @@ Artificial Intelligence (AI) is a broad term for technologies that enable machin
   - Deterministic outcomes  
 - **Examples**:
   - Payroll processing
-  - Accounting systems
+  - Spacecraft & Airplane autopilot systems
   - Sorting algorithms
-  - Encryption
 
 ---
 
