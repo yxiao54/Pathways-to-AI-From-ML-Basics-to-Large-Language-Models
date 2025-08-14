@@ -1,17 +1,80 @@
 # Pathways-to-AI-From-ML-Basics-to-Large-Language-Models
-## First Impression with Artificial Intelligence
-Artificial Intelligence (AI) is a broad term for technologies that enable machines to mimic or perform tasks that normally require human intelligence. Its goal is to endow machines with capabilities such as perception, reasoning, decision-making, and language understanding.
+## First Encounter with AI
 
-In traditional programming, a computer follows a fixed set of machine instructions based on logic explicitly designed by the programmer. The execution process is entirely human-defined. For instance, expert systems and knowledge graphs depend on human experts to acquire knowledge from the real world, convert it into explicit rules, and encode those rules into the system.
+Artificial Intelligence (AI) is a broad term for technologies that enable machines to mimic or perform tasks that normally require human intelligence.  
+**Goals of AI include:**
+- Perception
+- Reasoning
+- Decision-making
+- Language understanding
 
-Machine learning takes a different approach. Instead of relying on predefined rules, it learns directly from data, storing the acquired knowledge within a model. The model then applies this learned knowledge to make predictions, with the underlying logic emerging from the learning process itself rather than being manually specified.
+---
 
-Traditional programming is best suited for tasks where the rules are clearly defined, the environment is stable, and outcomes are deterministic, such as payroll processing, accounting systems, sorting algorithms, and encryption. 
+## Traditional Programming
 
-Machine learning, on the other hand, is more appropriate when rules are complex or difficult to define explicitly, patterns need to be recognized in large datasets, or relationships are too subtle for manual coding, making it ideal for applications like image recognition, speech-to-text, fraud detection, and recommendation systems. 
+- **Definition**: A computer follows a fixed set of machine instructions based on logic explicitly designed by the programmer.
+- **Characteristics**:
+  - Execution process is entirely human-defined.
+  - Example: Expert systems and knowledge graphs depend on human experts to:
+    1. Acquire knowledge from the real world.
+    2. Convert that knowledge into explicit rules.
+    3. Encode those rules into the system via programming.
+- **Best Suited For**:
+  - Well-defined rules
+  - Stable environments
+  - Deterministic outcomes  
+- **Examples**:
+  - Payroll processing
+  - Accounting systems
+  - Sorting algorithms
+  - Encryption
 
-In many cases, machine learning can also be used to support decision-making, particularly when dealing with uncertainty, incomplete information, or changing conditions; in such scenarios, models can provide predictions, risk scores, or rankings to guide human judgment in fields like medical diagnosis, financial risk assessment, supply chain optimization, and personalized marketing.
+---
 
-Deep learning is a subset of machine learning that focuses on using deep neural networks to solve problems. In this context, “deep” refers to the large number of layers in the neural network. Deep learning has achieved state-of-the-art performance in various fields, including computer vision, natural language processing, and speech recognition and generation. Large-scale models are also built on deep learning techniques.
+## Machine Learning (ML)
 
+- **Definition**: Learns directly from data, storing the acquired knowledge in a model.
+- **Key Difference from Traditional Programming**:
+  - Does not rely on predefined rules.
+  - The logic for prediction emerges from the model’s learning process.
+- **Best Suited For**:
+  - Complex or hard-to-define rules
+  - Pattern recognition in large datasets
+  - Subtle relationships that are difficult to manually code
+- **Applications**:
+  - Image recognition
+  - Speech-to-text
+  - Fraud detection
+  - Recommendation systems
+
+---
+
+## Machine Learning for Decision Support
+
+- **When to Use**:
+  - Uncertainty or incomplete information
+  - Changing or dynamic conditions
+  - **Safety-critical scenarios** where human oversight is essential
+- **Role**:
+  - Provides predictions, risk scores, or rankings to guide human judgment.
+- **Examples**:
+  - Medical diagnosis assistance
+  - Financial risk assessment
+  - Supply chain optimization
+  - Personalized marketing
+
+---
+
+## Deep Learning (DL)
+
+- **Definition**: A subset of machine learning that focuses on using deep neural networks to solve problems.
+- **What “Deep” Means**:
+  - Refers to the large number of layers in the neural network.
+- **Achievements**:
+  - State-of-the-art performance in:
+    - Computer vision
+    - Natural language processing
+    - Speech recognition and generation
+- **Relation to Large Models**:
+  - Large-scale models are built on deep learning techniques.
 ## Vector
