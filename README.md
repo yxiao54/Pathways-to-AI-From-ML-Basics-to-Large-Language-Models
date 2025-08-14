@@ -1,14 +1,7 @@
 # Pathways-to-AI-From-ML-Basics-to-Large-Language-Models
 ## First Encounter with AI
 
-Artificial Intelligence (AI) is a broad term for technologies that enable machines to mimic or perform tasks that normally require human intelligence.  
-**Goals of AI include:**
-- Perception
-- Reasoning
-- Decision-making
-- Language understanding
-
----
+Artificial Intelligence (AI) is a broad term for technologies that enable machines to mimic or perform tasks that normally require human intelligence. Its goal is to endow machines with capabilities such as perception, reasoning, decision-making, and language understanding. Machine Learning (ML) is an important branch of artificial intelligence that enables machines to acquire the ability to learn. It learns patterns from data without requiring rules to be manually specified. To understand how AI systems are developed, it’s important to know when to use machine learning and when traditional programming may be more suitable—machine learning is powerful, but it is not a one-size-fits-all solution.
 
 ## Traditional Programming
 
