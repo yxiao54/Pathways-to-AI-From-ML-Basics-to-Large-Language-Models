@@ -1,5 +1,5 @@
 # Pathways-to-AI-From-ML-Basics-to-Large-Language-Models
-## First Impression Artificial Intelligence
+## First Impression with Artificial Intelligence
 Artificial Intelligence (AI) is a broad term for technologies that enable machines to mimic or perform tasks that normally require human intelligence. Its goal is to endow machines with capabilities such as perception, reasoning, decision-making, and language understanding.
 
 In traditional programming, a computer follows a fixed set of machine instructions based on logic explicitly designed by the programmer. The execution process is entirely human-defined. For instance, expert systems and knowledge graphs depend on human experts to acquire knowledge from the real world, convert it into explicit rules, and encode those rules into the system.
@@ -13,3 +13,5 @@ Machine learning, on the other hand, is more appropriate when rules are complex 
 In many cases, machine learning can also be used to support decision-making, particularly when dealing with uncertainty, incomplete information, or changing conditions; in such scenarios, models can provide predictions, risk scores, or rankings to guide human judgment in fields like medical diagnosis, financial risk assessment, supply chain optimization, and personalized marketing.
 
 Deep learning is a subset of machine learning that focuses on using deep neural networks to solve problems. In this context, “deep” refers to the large number of layers in the neural network. Deep learning has achieved state-of-the-art performance in various fields, including computer vision, natural language processing, and speech recognition and generation. Large-scale models are also built on deep learning techniques.
+
+## Vector
